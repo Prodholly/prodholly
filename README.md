@@ -10,7 +10,7 @@
 - 🛠️ Technical skills: **Python (TensorFlow, PyTorch), R, Statistical ML, Mixed-methods research**
 - 📊 Building **human-in-the-loop evaluation frameworks** for responsible AI systems
 - 🌐 Learn more: **[Website](https://prodholly.github.io/emmanuel-adeloju.github.io/)**
-- 📫 Reach me: **eadeloju@asu.edu**
+- 📫 Reach me: **eadeloju [at] asu dot edu**
 - 💬 Ask me about **LLM evaluation, HCI, user studies, human-AI collaboration**
 
 <h3 align="left">Connect with me:</h3>
