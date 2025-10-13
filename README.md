@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Adeloju</h1>
-<h3 align="center">I love building solutions with Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif”>
-
+<h3 align="center">PhD Student | Human-AI Interaction | LLM Evaluation | HCI Research</h3>
+<img align="right" alt="Coding" width="400" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prodholly&label=Profile%20views&color=0e75b6&style=flat" alt="prodholly" /> </p>
 
-- 🔭 I’m currently working on **Understanding how people validate information online using various machine learning algorithms**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/emmanuel-adeloju/](https://www.linkedin.com/in/emmanuel-adeloju/)
-
-- 💬 Ask me about **Machine Learning, Deep Learning**
-
-- 📫 How to reach me **prodholly@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/emmanuel-adeloju/](https://www.linkedin.com/in/emmanuel-adeloju/)
+- 🔬 PhD student at Arizona State University researching **Human-AI Interaction & LLM Evaluation**
+- 🔭 Currently investigating **how users interact with LLMs for data sensemaking in authentic contexts**
+- 🧪 Background spans **Biochemistry → Education → AI/ML** (toxicology research, teaching, now HCI)
+- 💡 Research interests: **Human-centered AI, user studies, LLM evaluation, experimental design**
+- 🛠️ Technical skills: **Python (TensorFlow, PyTorch), R, Statistical ML, Mixed-methods research**
+- 📊 Building **human-in-the-loop evaluation frameworks** for responsible AI systems
+- 🌐 Learn more: **[Website](https://prodholly.github.io/emmanuel-adeloju.github.io/)**
+- 📫 Reach me: **eadeloju@asu.edu**
+- 💬 Ask me about **LLM evaluation, HCI, user studies, human-AI collaboration**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
