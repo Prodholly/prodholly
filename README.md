@@ -7,9 +7,9 @@
 - Currently investigating **how users interact with LLMs for data sensemaking in authentic contexts; and AI Safety In K12 Context**
 - Background spans **Biochemistry → Education → AI/ML** (toxicology research, teaching, now HCI)
 - Research interests: **Human-centered AI, AI Safety, Data Sensemaking User studies**
-- 🛠️ Technical skills: **Python (PyTorch), R, Statistical ML, Mixed-methods research**
-- 🌐 Learn more: **[Website](https://prodholly.github.io/EmmanuelAdeloju/)**
-- 📫 Reach me: **eadeloju [at] asu dot edu**
+- Technical skills: **Python (PyTorch), R, Statistical ML, Mixed-methods research**
+- Learn more: **[Website](https://prodholly.github.io/EmmanuelAdeloju/)**
+- Reach me: **eadeloju [at] asu dot edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
